@@ -1,13 +1,17 @@
 # Project Weather
 A weather app.
+<br>
 It fetches real-time weather through API.
+
+<br> <br>
 
 ## Screenshot
 <img width="1063" height="849" alt="image" src="https://github.com/user-attachments/assets/4a5c1996-5613-4468-b143-6ed7e2dc94bf" />
-
+<br> <br>
 
 ## Installation
 Clone this repository to your PC.
+<br>
 Run the following commands:
 bash
 npm i
@@ -16,4 +20,5 @@ node index.js
 Note: You will need an OpenWeather account for this project.
 <br> <br>
 Regards,
+<br>
 Shrushti Gupta
