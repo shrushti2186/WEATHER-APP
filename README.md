@@ -10,14 +10,17 @@ It fetches real-time weather through API.
 <br> <br>
 
 ## Installation
+
 Clone this repository to your PC.
-<br> <br>
+
+<br><br>
+
 Run the following commands:
-<br>
+
+```bash
 npm i
-<br>
 node index.js
-<br>
+```
 
 Note: You will need an OpenWeather account for this project.
 <br> <br>
